@@ -1,1 +1,1 @@
-{"Tables":[{"T314":[]},{"T315":[]}],"Info":{"ID":"BASE-JOB","Module":"JOB","Description":"Jobs Basis Setup CA","Author":"Microsoft","Country":"CA","Version":"US"}}
+{"Tables":[{"T314":[{"f1":"","N2":{"f1":"RES","f2":"Resource"},"N950":{"f1":"TS","f2":"Time Sheet"},"f951":1,"f952":1}]},{"T315":[{"f1":"","N2":{"f1":"JOB","f2":"JOB"},"f3":"Yes","f4":"","f5":"","f6":1,"f7":"Yes","f31":1,"N40":{"f1":"JOB-WIP","f2":"Job-WIP"},"f1001":"No"}]}],"Info":{"ID":"BASE-JOB","Module":"JOB","Description":"Jobs Basis Setup CA","Author":"Microsoft","Country":"CA","Version":"US"}}
