@@ -1,1 +1,1 @@
-{"Tables":[{"T5218":[{"f1":"","N2":{"f1":"WERKN","f2":"Werknemer"},"f3":"DAG","f4":"No"}]}],"Info":{"ID":"BASE-HR","Module":"HR","Description":"Human Resources Management Basis Setup standard (BE)","Author":"Microsoft","Country":"BE","Version":"14"}}
+{"Tables":[{"T5218":[{"f1":"","N2":{"f1":"WERKN","f2":"Werknemer"},"f3":"DAG","f4":"No"}]}],"Info":{"ID":"BASE-HR.standard","Module":"HR","Description":"Human Resources Management Basis Setup standard (BE)","Author":"Microsoft","Country":"BE","Version":"14"}}
