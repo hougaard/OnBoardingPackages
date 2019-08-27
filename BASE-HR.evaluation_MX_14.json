@@ -1,1 +1,1 @@
-{"Tables":[{"T5218":[{"f1":"","N2":{"f1":"EMP","f2":"Empleado"},"f3":"DÃA","f4":"No"}]}],"Info":{"ID":"BASE-HR.evaluation","Module":"HR","Description":"Human Resources Management Basis Setup evaluation (MX)","Author":"Microsoft","Country":"MX","Version":"14"}}
+{"Tables":[{"T5218":[{"f1":"","N2":{"f1":"EMP","f2":"Empleado"},"f3":"DÃA","f4":0}]}],"Info":{"ID":"BASE-HR.evaluation","Module":"HR","Description":"Human Resources Management Basis Setup evaluation (MX)","Author":"Microsoft","Country":"MX","Version":"14"}}
